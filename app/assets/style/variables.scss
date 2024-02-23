@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Neucha&display=swap");
+
+// Color Pallet
+$color-primary: #387aa1;
+$color-secondary: #232931;
+
+$color-base-100: white;
+$color-base-200: #ededed;
+$color-base-300: #b8b8b8;
+$color-base-400: #6e6e6e;
+$color-base-500: #5f5f5f;
+
+$color-success-light: #81ac6533;
+$color-success: #81ac65;
+$color-success-strong: #5e8146;
+
+$color-warn-light: #ae383821;
+$color-warn: #ae3838;
+$color-warn-strong: #702323;
+
+$color-alert-light: #f5b64271;
+$color-alert: #f5b642;
+$color-alert-strong: #a3792b;
+
+// Screens
+$screen-sm: 380px;
+$screen-md: 380px;
+$screen-lg: 380px;
+$screen-xl: 380px;
+$screen-2xl: 380px;
+
+// Animation
+$animate-duration: 0.2s;
+$animate-keyframe: ease;
+
+// Font family
+$font-family-primary: 'Neucha', cursive;
+
+// Font size
+$text-sm: 14px;
+$text-base: 16px;
+$text-lg: 18px;
+$text-xl: 22px;
+$text-2xl: 40px;
+$text-3xl: 65px;
